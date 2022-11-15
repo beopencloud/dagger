@@ -10,14 +10,12 @@ To run the project, make sure you have docker installed and go.
 
 Clone the project by running in a folder of choice:
 
-1. With SSH : git@github.com:beopencloud/beopenMairieAPI.git
-2. With https: https://github.com/beopencloud/beopenMairieAPI.git
+1. With SSH : git@github.com:beopencloud/cno-api.git
+2. With https: https://github.com/beopencloud/cno-api.git
 
 Go to the root of the project :
 
-cd ./cno-ui-ci
-
-Rename the .env.example by .env and replace with correct infos
+cd ./dagger
 
 Run the code with the command :  go run main.go
 
