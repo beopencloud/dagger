@@ -2,7 +2,7 @@ Project to run pipelines with dagger
 
 Dagger allows us to run CI/CD pipeline as container.
 
-In this project, we are running the BeOpenMairie CI pipeline where we test the app, package it in a container and push it to the docker registry.
+In this project, we are running the CNO API CI pipeline where we test the app, package it in a container and push it to the docker registry.
 
 The CD part is done by CNO.
 
